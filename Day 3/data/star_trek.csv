@@ -1,0 +1,14 @@
+Emp_id,name,base_salary,bonus,started,department,education
+100238,JL Picard,395000,18000,1940-07-13,Bridge,Bachelor's
+1,Will Ricker,220000,14000,1952-08-19,Bridge,Bachelor's
+250222,Wesley Crusher,110000,3000,1972-07-29,Engineering,Masters
+202155,Beverly Crusher,345000,20000,1949-03-02,Medical,Doctorate
+145666,Geordi LaForge,140500,5000,1957-02-16,Engineering,Doctorate
+144241,Deanna Troi,120000,20000,1955-03-29,Bridge,Masters
+132333,Data,0,0,1949-02-02,Bridge,None
+165662,Worf,115000,15000,1952-12-09,Security,Bachelor's
+175221,Miles O'Brien,85000,2000,1953-05-30,Engineering,Masters
+80243,Guinan,72000,7000,1955-11-13,Catering,Masters
+73222,Tarsha Yar,120000,5000,1957-11-24,Bridge,Bachelor's
+25666,Keiko O'Brien,92000,3000,1957-09-23,Scientist,Doctorate
+133214,April Hubbel,76000,2000,1962-05-12,Engineering,Bachelor's
